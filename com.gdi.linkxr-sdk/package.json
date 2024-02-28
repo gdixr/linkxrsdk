@@ -1,0 +1,32 @@
+{
+  "name": "com.gdi.linkxrsdk",
+  "displayName": "GDI LinkXR Sdk",
+  "version": "6.0.1",
+  "description": "GDI LinkXR Sdk",
+  "keywords": [
+    "gdi",
+    "openxr",
+    "stereoscopic",
+    "stereo",
+    "3d",
+    "mr",
+    "vr",
+    "xr"
+  ],
+  "homepage": "http://www.ideavr.top/avatar/",
+  "documentationUrl": "http://www.ideavr.top/avatar/",
+  "changelogUrl": "http://www.ideavr.top/avatar/",
+  "licensesUrl": "http://www.ideavr.top/avatar/",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gdixr/linkxrsdk.git"
+  },
+  "license": "NONE",
+  "author": "GDI",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.xr.openxr": "1.4.2",
+    "com.unity.xr.interaction.toolkit" : "2.3.2",
+    "com.unity.textmeshpro" : "3.0.6"
+  }
+}
